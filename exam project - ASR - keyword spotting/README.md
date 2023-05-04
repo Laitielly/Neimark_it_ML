@@ -278,3 +278,14 @@ The experiment was conducted on the basis of augmented train data, but the effec
 Configuration: repeat - 2, dropout - 0.2.
 
 
+## Neural network "from scratch"
+
+After reading several articles and being inspired by the architecture of [Broadcast Residual Learning](https://arxiv.org/abs/2106.04140) I decided to write part of my neural network. In the form of features, it is planned to take PLP. Also basic are mel-spectrograms. 
+
+![brl](https://github.com/Laitielly/Neimark_it_ML/blob/main/exam%20project%20-%20ASR%20-%20keyword%20spotting/images/brl.png)
+
+The neural network itself has already been implemented, but I am at the stage of identifying PLP features. The mel-spectrograms showed a poor result. As soon as the experiments are over, the neural network will be released to open-source.
+
+# Thank you for your attention!
+
+![thanks](https://github.com/Laitielly/Neimark_it_ML/blob/main/exam%20project%20-%20ASR%20-%20keyword%20spotting/images/thanks.jpg)
